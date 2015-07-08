@@ -1,0 +1,10 @@
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\bin\Debug\E01Helper.exe
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\bin\Debug\E01Helper.pdb
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\bin\Debug\DiscUtils.dll
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\bin\Debug\DiscUtils.pdb
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.Main.resources
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.Properties.Resources.resources
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.exe
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.pdb
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.csprojResolveAssemblyReference.cache
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\E01Helper\E01Helper\obj\x86\Debug\E01Helper.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\bin\Release\E01Helper.exe
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\bin\Release\E01Helper.pdb
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\bin\Release\DiscUtils.dll
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\bin\Release\DiscUtils.pdb
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\E01Helper.Main.resources
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\E01Helper.Properties.Resources.resources
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\E01Helper.exe
+c:\users\bridgey\documents\visual studio 2010\Projects\E01Helper\E01Helper\obj\x86\Release\E01Helper.pdb

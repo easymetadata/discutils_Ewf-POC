@@ -1,0 +1,2 @@
+First version of EWFDiscUtils. Basic testing complete. MD5 of image read through
+this code matches MD5 reported by EnCase/FTK Imager.

@@ -1,0 +1,7 @@
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\bin\Debug\DiscUtils.dll
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\bin\Debug\DiscUtils.pdb
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\bin\Debug\DiscUtils.dll.xml
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\obj\Debug\DiscUtils.Resources.resources
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\obj\Debug\DiscUtils.dll
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\obj\Debug\DiscUtils.pdb
+C:\Users\Bridgey\Documents\Visual Studio 2010\Projects\ewfdiscutils\src\obj\Debug\DiscUtils.csproj.GenerateResource.Cache
